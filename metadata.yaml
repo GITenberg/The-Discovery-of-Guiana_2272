@@ -1,0 +1,26 @@
+_repo: The-Discovery-of-Guiana_2272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raleigh, Walter
+    deathdate: 1618
+    gutenberg_agent_id: '3337'
+    url: http://www.gutenberg.org/2009/agents/3337
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Raleigh
+description: ''
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Guiana -- Discovery and exploration'
+- !lcsh 'El Dorado'
+- !lcsh 'America -- Early accounts to 1600'
+- GITenberg
+title: The Discovery of Guiana
+url: http://www.gutenberg.org/ebooks/2272
